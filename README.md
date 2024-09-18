@@ -5,7 +5,6 @@
 </p>
 
 ---
-### 🔗🔗 Link: https://rededge967.github.io/Spider-Man
 ---
 ## Special Notes
 ### What is needed to Play `Spider-Man`
